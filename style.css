@@ -1,0 +1,12 @@
+body{
+    background-color: lightslategray;
+}
+
+img{
+    padding: 5px;
+    width: 50%;
+}
+
+a{
+    text-decoration: none;
+}
